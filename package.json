@@ -1,0 +1,27 @@
+{
+  "name": "template-react",
+  "version": "0.0.1",
+  "description": "Vited template for React packages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitedjs/template-react.git"
+  },
+  "keywords": [
+    "vited",
+    "template",
+    "react",
+    "component",
+    "hooks"
+  ],
+  "author": {
+    "name": "Guo Yunhe",
+    "email": "i@guoyunhe.me",
+    "url": "https://guoyunhe.me/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitedjs/template-react/issues"
+  },
+  "homepage": "https://github.com/vitedjs/template-react#readme",
+  "funding": "https://github.com/sponsors/guoyunhe"
+}
